@@ -33,7 +33,7 @@ serverSideLang: [
   ],
   tools: ["Redux Dev Tool"],
   architecture: ["Design System Pattern"],
-  methodology: ["DRY"]
+  methodology: ["DRY"],
   preprocessor: ["SASS"],
   npmLink: [
       "https://www.npmjs.com/package/ngx-waiting",
