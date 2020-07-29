@@ -8,7 +8,7 @@ I'm Aishvarya.
 
 ```typescript
 const myInfo: any = {
-    sucess: true,
+    success: true,
     message: "Awesome JS Developer",
     statusCode: 200,
     error: null,
