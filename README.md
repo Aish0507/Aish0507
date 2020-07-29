@@ -1,4 +1,4 @@
-[![Social banner for Aish0507](https://github.com/Aish0507/Aish0507/raw/master/assets/aishvarya.gif)]()
+[![Social banner for Aish0507](https://github.com/Aish0507/Aish0507/raw/master/assets/Aish0507.gif)]()
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
